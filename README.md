@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansajaa" alt="hansajaa" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Angular**
+- 🌱 I’m currently learning **Spring Boot, Angular, React JS**
 
 - 📫 How to reach me **nilanahansaja21@gmail.com**
 
