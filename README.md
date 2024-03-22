@@ -9,9 +9,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hansajaa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hansajaa&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansajaa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansajaa&theme=blue-green" alt="Nilana Hansaja" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansajaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Nilana Hansaja" height="192px"/>
+<br/>
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansajaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Nilana Hansaja" height="192px"/>
+
 
 # 💫 About Me:
 🤝 All of my projects are available at https://hansajaa.github.io/Original-Portfolio/<br>🌱 I’m currently learning Spring Boot, Angular, React, Node.js, Express.js<br>💬 Ask me about Java<br>📫 How to reach me nilanahansaja21@gmail.com
