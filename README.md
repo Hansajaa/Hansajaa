@@ -1,3 +1,9 @@
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Hansajaa&label=Profile%20views&color=0e75b6&style=flat" alt="Nilana Hansaja" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hansajaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
