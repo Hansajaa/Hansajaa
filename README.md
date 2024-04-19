@@ -4,7 +4,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=023b24&size=24&width=500&lines=Software+Engineer;UI-UX+Designer;Open-Source+Enthusiast;Web3+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=046c42&size=24&width=500&lines=Software+Engineer;UI-UX+Designer;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=Hansajaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
