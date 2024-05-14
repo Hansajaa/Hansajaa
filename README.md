@@ -22,7 +22,7 @@
 
 ## 🔧 Tech Stack
 
-![skills](https://skillicons.dev/icons?i=java,angular,npm,spring,postman,html,css,bootstrap,mui,tailwind,js,ts,php,wordpress,nodejs,expressjs,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode,azure,electron&theme=light)
+![skills](https://skillicons.dev/icons?i=java,angular,npm,spring,postman,html,css,bootstrap,mui,tailwind,js,ts,wordpress,nodejs,expressjs,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode,azure,electron&theme=light)
 
 
 ### ✍️ Random Dev Quote
