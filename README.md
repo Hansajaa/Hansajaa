@@ -6,7 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=046c42&size=24&width=500&lines=Software+Engineer;UI-UX+Designer;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
-![](https://github-profile-trophy.vercel.app/?username=Hansajaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+![](https://github-profile-trophy.vercel.app/?username=Hansajaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)<br>
+
+
 
 &nbsp;
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansajaa&theme=blue-green" alt="Nilana Hansaja" /></p>
@@ -14,11 +18,25 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nilana Hansaja" src="https://github-readme-stats.vercel.app/api?username=Hansajaa&show_icons=true&count_private=true&theme=blue-green" height="192px"/></a>
 <br/>
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansajaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Nilana Hansaja" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansajaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Nilana Hansaja" height="192px"/><br>
 
 
-# 💫 About Me:
-🤝 All of my projects are available at https://hansajaa.github.io/Original-Portfolio/<br>🌱 I’m currently learning Spring Boot, Angular, React, Node.js, Express.js<br>💬 Ask me about Java<br>📫 How to reach me nilanahansaja21@gmail.com
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br><br><br><br>
+
+
+- 🔭 I’m currently working on **Roamify IT**
+
+- 🌱 I’m currently learning **Spring Boot, Angular, React, Node.js, Express.js**
+
+- 👨‍💻 All of my projects are available at https://hansajaa.github.io/Original-Portfolio/
+
+- 💬 Ask me about **Java, Spring Boot, NodeJS**
+
+- 📫 How to reach me **nilanahansaja21@gmail.com**
+
+<br><br><br>
+
 
 ## 🔧 Tech Stack
 
