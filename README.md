@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular, React, Node.js, Express.js**
 
-- 👨‍💻 All of my projects are available at https://hansajaa.github.io/Original-Portfolio/
+- 👨‍💻 All of my projects are available at https://nilana-hansaja.netlify.app
 
 - 💬 Ask me about **Java, Spring Boot, NodeJS**
 
